@@ -65,3 +65,14 @@ Additionally, there are some challenges related to
 3.Technological integration.
 
 4.Communication with stakeholders.
+
+
+You can refer my youtube channel video the link is below
+https://youtu.be/cbG0KKpM7l8?feature=shared
+
+
+
+# Screenshot of our projects
+
+
+
