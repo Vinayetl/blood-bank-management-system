@@ -72,7 +72,8 @@ https://youtu.be/cbG0KKpM7l8?feature=shared
 
 
 
-# Screenshot of our projects
+# Screenshot of our project
+# step by step process
 ![image](https://github.com/Vinayetl/blood-bank-management-system/assets/163672963/8e819c78-e088-49d7-8fe0-6f0778dbc653)
 
 
@@ -81,6 +82,8 @@ https://youtu.be/cbG0KKpM7l8?feature=shared
 
 
 ![image](https://github.com/Vinayetl/blood-bank-management-system/assets/163672963/5b4142d3-5859-4509-a64f-3f55296f797a)
+
+
 
 
 
