@@ -73,6 +73,14 @@ https://youtu.be/cbG0KKpM7l8?feature=shared
 
 
 # Screenshot of our projects
+![image](https://github.com/Vinayetl/blood-bank-management-system/assets/163672963/8e819c78-e088-49d7-8fe0-6f0778dbc653)
+
+
+![image](https://github.com/Vinayetl/blood-bank-management-system/assets/163672963/998f765f-6fc7-4c26-9b94-9d29c32f8851)
+
+
+
+![image](https://github.com/Vinayetl/blood-bank-management-system/assets/163672963/5b4142d3-5859-4509-a64f-3f55296f797a)
 
 
 
